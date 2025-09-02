@@ -1037,6 +1037,12 @@ span{
     margin-top: 100px;
   }
 
-  
+  .explorebtn button{
+    background-color: black;
+    color: white;
+  }
+  .explorebtn button i{
+    color: white;
+  }
     
 }
